@@ -70,18 +70,7 @@ public class SeleniumIntro {
 		}
 		
 	}
-	
-
-
-
-Ejercicio
-1. log in en OrangeHR
-2. Click en Menu Directory
-3. Buscar por "Nathan"
-4. Click Search
-Verificar el nombre completo de la persona
-		
-		
+}
 
 
 
